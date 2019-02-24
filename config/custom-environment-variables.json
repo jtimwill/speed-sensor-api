@@ -1,0 +1,4 @@
+{
+  "jwt_private_key": "speed_api_jwt_private_key",
+  "db": "speed_api_db"
+}
